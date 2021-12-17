@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "132754617539",
+    "firebase_url": "https://fir-cadastro-4b4b3-default-rtdb.firebaseio.com",
+    "project_id": "fir-cadastro-4b4b3",
+    "storage_bucket": "fir-cadastro-4b4b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132754617539:android:d3ed35e0f19f5e9c839e76",
+        "android_client_info": {
+          "package_name": "br.com.oop.petservice_oop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132754617539-lbjbfrbdnsp8m0qa8f2e6vi1pdrjdbga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.oop.petservice_oop_app",
+            "certificate_hash": "e01a177851408f2986a8eb1a3a85cbe78b9489ee"
+          }
+        },
+        {
+          "client_id": "132754617539-vdsg4gmtslph78m4pdhavobc0kd137l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9lNQ3RS2cXoPa6f0pqw-pmAFQuycWIkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132754617539-vdsg4gmtslph78m4pdhavobc0kd137l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
